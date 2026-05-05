@@ -1,5 +1,8 @@
-Hello 👋 I'm Peeradech Suakaewnoi
-=====================================
+<div align="center">
+  
+# Hello 👋 I'm Peeradech Suakaewnoi
+
+</div>
 
 ## About Me
 
