@@ -57,14 +57,12 @@ I recently graduated with a degree in Information Technology, majoring in **Soft
 
 ## 💼 Work Experience
 ### Backend Developer Intern — Asha Tech Corporation Co., Ltd
-📍 Bangkok, Thailand | April 2025 - June 2025
+📍 Bangkok, Thailand | *April 2025 - June 2025*
 
 - Contributed to building a **delivery platform** using **PHP Laravel**,
   developing selected features for rider and order management workflows.
-
 - Helped develop a **second-hand goods store management system** using **NestJS**,
   covering customer queue management, weight measurement, item categorization,
   and payment calculation.
-
 - Assisted in developing a **POS system** for a frozen food retail store using **NestJS**,
   supporting daily sales operations.
