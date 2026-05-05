@@ -1,2 +1,8 @@
-# About Me:
+Hi 👋 My name is Peeradech Suakaewnoi
+=====================================
+
+Full-Stack Developer
+--------------------
+
+# About Me
 I recently graduated with a degree in Information Technology,<br>majoring in Software Development, from King Mongkut's Institute<br>of Technology Ladkrabang (KMITL).<br><br>I have hands-on experience as a Backend Developer intern,<br>building web applications with Node.js, NestJS, and PHP Laravel.<br>Comfortable working across both frontend and backend,<br>with a strong interest in Full-Stack Development.
